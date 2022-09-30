@@ -1,0 +1,7 @@
+./lib
+./test
+*.ts
+.eslint*
+.prettier*
+node_modules/
+pnpm-*
